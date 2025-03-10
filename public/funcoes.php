@@ -7,3 +7,6 @@ Funções
 */
 
 
+function connection() {
+
+}
